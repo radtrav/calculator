@@ -1,1 +1,18 @@
-This is a simple calculator implementation in React. Created as a take home project as part of an interview process.
+
+
+
+# React Calculator
+
+This was made as part of an interview take home question
+
+## Installation
+
+```sh
+npm install
+npm start
+```
+
+## Meta
+
+Travis Young – travyoung.dev@gmail.com
+
