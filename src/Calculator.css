@@ -1,0 +1,13 @@
+.buttons-container {
+  background-color: #f8f9fa;
+}
+
+.button {
+  cursor: pointer;
+  outline: none;
+}
+
+.calculator-wrapper {
+  width: 260px;
+  margin: 40px;
+}
