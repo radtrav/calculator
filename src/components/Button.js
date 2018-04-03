@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Button = ({label, handleClick}) => {
+const Button = ({ label, handleClick }) => {
   return (
     <input
       className="button btn-lg btn-light"

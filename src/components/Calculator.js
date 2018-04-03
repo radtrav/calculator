@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Screen from './Screen';
 import Button from './Button';
-import './Calculator.css';
+import '../css/Calculator.css';
 
 class Calculator extends Component {
   state = {
