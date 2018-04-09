@@ -3,7 +3,7 @@
 
 # React Calculator
 
-This was made as part of an interview take home question
+This is a simple calculator application that can perform basic arithmathic
 
 ## Installation
 
@@ -12,7 +12,6 @@ npm install
 npm start
 ```
 
-## Meta
+## Screenshots
 
-Travis Young – travyoung.dev@gmail.com
-
+![alt text](https://raw.githubusercontent.com/radtrav/calculator/master/screenshots/Screen%20Shot%202018-04-08%20at%2011.59.44%20PM.png)
